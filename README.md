@@ -13,6 +13,7 @@ pip install PyQt5
 ## How to use
 
 ```bash
+cd scr
 chmod +x main.py
 ./main.py
 ```
